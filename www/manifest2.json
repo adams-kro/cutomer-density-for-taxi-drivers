@@ -1,0 +1,17 @@
+{
+  "name": "Taxi Customer Location Recommending System",
+  "short_name": "TCLRS",
+  "icons": [{
+        "src": "tclrs.png",
+        "sizes": "200x200",
+        "type": "image/png"
+      }, {
+        "src": "tclrslogo.png",
+        "sizes": "54x53",
+        "type": "image/png"
+      }],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4181D5",
+  "theme_color": "#4181D5"
+}

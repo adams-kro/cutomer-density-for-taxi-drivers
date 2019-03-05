@@ -1,0 +1,29 @@
+.main-header .logo{
+    float: left;
+    width: 230px;
+    padding: 0px 0px;
+	align: left;
+}
+.main-header .navbar{    
+    margin-left:230px;
+	min-width:300px;
+	width: auto;	
+}
+
+
+@media only screen and (max-width: 600px) {
+   .main-sidebar .sidebar {
+        margin-top:-50px;
+		padding: 0px 0px; 
+		position:relative;
+    }
+}
+#mlrd2{
+	font-size: 17px;
+}
+#mlrp2{
+	font-size: 17px;
+}
+#mlrc2{
+	font-size: 17px;
+}
